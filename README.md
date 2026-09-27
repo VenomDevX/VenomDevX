@@ -37,13 +37,50 @@ I'm a full-stack and embedded developer who likes working where code meets circu
 
 ### Featured Work
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**DocNova**](https://github.com/VenomDevX/DocNova-PDF-Tools) | AI document command center with 53+ free PDF tools | React · Python |
-| [**HANDOFF**](https://github.com/VenomDevX/HANDOFF) | Workspace for projects, sprints, teams and releases | TypeScript |
-| [**ESP32 Marauder**](https://github.com/VenomDevX/ESP32-Marauder) | Portable Wi-Fi auditing tool on ESP32 + ILI9341 | C++ · ESP32 |
-| [**Delhi.**](https://github.com/VenomDevX/Delhi-tourism) | Interactive showcase of New Delhi's culture and monuments | React · TypeScript |
-| [**WasteWise India**](https://github.com/VenomDevX/Waste-Mangement) | Smart India Hackathon waste-management platform | TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/CORVUS">🐦 CORVUS</a></h4>
+<sub>Local-first Windows AI assistant — voice, memory and automation, fully on your PC.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/DocNova-PDF-Tools">📄 DocNova</a></h4>
+<sub>AI document command center with 53+ free PDF tools — summarize, chat, edit.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/HANDOFF">🧭 HANDOFF</a></h4>
+<sub>Structured workspace syncing projects, sprints, teams, releases and docs.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/ESP32-Marauder">📡 ESP32 Marauder</a></h4>
+<sub>Portable Wi-Fi auditing tool built on ESP32 with an ILI9341 touch UI.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++" /> <img src="https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/Delhi-tourism">🏛️ Delhi.</a></h4>
+<sub>Future meets heritage — interactive showcase of New Delhi's culture.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/VenomDevX/Waste-Mangement">🌱 WasteWise India</a></h4>
+<sub>Smart India Hackathon platform for waste pickup, reporting and training.</sub>
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" /> <img src="https://img.shields.io/badge/Hackathon-0d1117?style=flat-square" alt="Hackathon" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -61,3 +98,4 @@ I'm a full-stack and embedded developer who likes working where code meets circu
   <img src="https://streak-stats.demolab.com/?user=VenomDevX&background=0d1117&border=00000000&stroke=30363d&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
 </p>
 
+<img src="./footer.svg" width="100%" alt="" />
