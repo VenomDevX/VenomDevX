@@ -1,23 +1,46 @@
-# 💫 About Me:
-🔭 I’m currently working on [DocNova](#)<br>👯 I’m looking to collaborate on full-stack and embedded hardware projects<br>🤝 I’m looking for help with growing DocNova and building software-to-hardware solutions<br>🌱 I’m currently learning Raspberry Pi and TypeScript<br>💬 Ask me about Full-Stack Development, Frontend Development, Embedded Hardware, and Raspberry Pi<br>⚡ Fun fact: I enjoy turning software ideas into real-world hardware solutions.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=A3A3A3&center=true&vCenter=true&width=520&lines=hi%2C+i'm+parth;software+%E2%86%92+hardware;less+but+better." alt="typing intro" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sharma-b96661245/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Venom-DevX/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:VenomDevX@proton.me) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=plastic) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black)![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VenomDevX&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 <br>
-![](https://streak-stats.demolab.com/?user=VenomDevX&theme=github_dark_dimmed&hide_border=false)<br/>
+
+```text
+~ $ whoami
+  parth — full-stack & embedded developer, delhi
+
+~ $ cat now.txt
+  → building    DocNova — AI-powered PDF toolkit
+  → learning    raspberry pi, typescript
+  → open to     full-stack & embedded hardware collabs
+
+~ $ ls stack/
+  web       typescript  react  next  node
+  backend   python  fastapi  flask
+  hardware  c  c++  esp32  arduino  raspberry-pi
+  cloud     vercel  cloudflare  aws
+  design    figma  blender  after-effects
+
+~ $ ls projects/ --pinned
+  DocNova-PDF-Tools   53+ free PDF tools, AI chat & summaries
+  HANDOFF             workspace for sprints, teams & releases
+  ESP32-Marauder      portable wi-fi auditing tool on ESP32
+  Delhi-tourism       future meets heritage, interactive react
+  Waste-Mangement     WasteWise India, SIH platform
+
+~ $ ping parth
+  mail      VenomDevX@proton.me
+  linkedin  in/parth-sharma-b96661245
+  reddit    u/Venom-DevX
+```
+
 <br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VenomDevX&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VenomDevX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=VenomDevX&background=00000000&border=00000000&stroke=737373&ring=a3a3a3&fire=a3a3a3&currStreakNum=a3a3a3&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=737373&dates=737373&hide_border=true" alt="github streak" />
 
+<sub>— less, but better —</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
