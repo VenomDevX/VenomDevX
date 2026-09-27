@@ -1,46 +1,61 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=A3A3A3&center=true&vCenter=true&width=520&lines=hi%2C+i'm+parth;software+%E2%86%92+hardware;less+but+better." alt="typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Parth&fontColor=e6edf3&fontSize=52&fontAlignY=36&desc=Full-Stack%20%26%20Embedded%20Developer%20%C2%B7%20Delhi&descAlignY=58&descSize=16" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=560&lines=Turning+software+ideas+into+real-world+hardware;Building+DocNova+%E2%80%94+AI-powered+PDF+toolkit;Open+to+full-stack+%26+embedded+collaborations" alt="typing" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/parth-sharma-b96661245/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:VenomDevX@proton.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" /></a>
+<a href="https://www.reddit.com/user/Venom-DevX/"><img src="https://img.shields.io/badge/Reddit-0d1117?style=for-the-badge&logo=reddit&logoColor=FF4500" alt="Reddit" /></a>
+<img src="https://komarev.com/ghpvc/?username=VenomDevX&style=for-the-badge&color=30363d&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
 <br>
 
-```text
-~ $ whoami
-  parth — full-stack & embedded developer, delhi
+### About
 
-~ $ cat now.txt
-  → building    DocNova — AI-powered PDF toolkit
-  → learning    raspberry pi, typescript
-  → open to     full-stack & embedded hardware collabs
+I'm a full-stack and embedded developer who likes working where code meets circuits. I build web products with **React, Next.js and Python**, and hardware projects with **ESP32, Arduino and Raspberry Pi**.
 
-~ $ ls stack/
-  web       typescript  react  next  node
-  backend   python  fastapi  flask
-  hardware  c  c++  esp32  arduino  raspberry-pi
-  cloud     vercel  cloudflare  aws
-  design    figma  blender  after-effects
-
-~ $ ls projects/ --pinned
-  DocNova-PDF-Tools   53+ free PDF tools, AI chat & summaries
-  HANDOFF             workspace for sprints, teams & releases
-  ESP32-Marauder      portable wi-fi auditing tool on ESP32
-  Delhi-tourism       future meets heritage, interactive react
-  Waste-Mangement     WasteWise India, SIH platform
-
-~ $ ping parth
-  mail      VenomDevX@proton.me
-  linkedin  in/parth-sharma-b96661245
-  reddit    u/Venom-DevX
-```
+- **Now** — building [DocNova](https://github.com/VenomDevX/DocNova-PDF-Tools), an AI-powered document toolkit
+- **Learning** — Raspberry Pi and advanced TypeScript
+- **Ask me about** — full-stack, frontend, embedded hardware
 
 <br>
 
-<div align="center">
+### Tech Stack
 
-<img src="https://streak-stats.demolab.com/?user=VenomDevX&background=00000000&border=00000000&stroke=737373&ring=a3a3a3&fire=a3a3a3&currStreakNum=a3a3a3&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=737373&dates=737373&hide_border=true" alt="github streak" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,flask,html&theme=dark" alt="web" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,arduino,raspberrypi,vercel,cloudflare,aws,gcp&theme=dark" alt="systems & cloud" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,blender,ae,unity,unreal&theme=dark" alt="tools" />
+</p>
 
-<sub>— less, but better —</sub>
+<br>
 
-</div>
+### Featured Work
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**DocNova**](https://github.com/VenomDevX/DocNova-PDF-Tools) | AI document command center with 53+ free PDF tools | React · Python |
+| [**HANDOFF**](https://github.com/VenomDevX/HANDOFF) | Workspace for projects, sprints, teams and releases | TypeScript |
+| [**ESP32 Marauder**](https://github.com/VenomDevX/ESP32-Marauder) | Portable Wi-Fi auditing tool on ESP32 + ILI9341 | C++ · ESP32 |
+| [**Delhi.**](https://github.com/VenomDevX/Delhi-tourism) | Interactive showcase of New Delhi's culture and monuments | React · TypeScript |
+| [**WasteWise India**](https://github.com/VenomDevX/Waste-Mangement) | Smart India Hackathon waste-management platform | TypeScript |
+
+<br>
+
+### GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=VenomDevX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VenomDevX&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VenomDevX&background=0d1117&border=00000000&stroke=30363d&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
