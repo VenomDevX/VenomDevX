@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Parth&fontColor=e6edf3&fontSize=52&fontAlignY=36&desc=Full-Stack%20%26%20Embedded%20Developer%20%C2%B7%20Delhi&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="./header.svg" width="100%" alt="Parth — Full-Stack & Embedded Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&width=560&lines=Turning+software+ideas+into+real-world+hardware;Building+DocNova+%E2%80%94+AI-powered+PDF+toolkit;Open+to+full-stack+%26+embedded+collaborations" alt="typing" />
 
@@ -50,12 +50,14 @@ I'm a full-stack and embedded developer who likes working where code meets circu
 ### GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=VenomDevX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e" alt="stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=VenomDevX&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=VenomDevX&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=8b949e" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=VenomDevX&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VenomDevX&background=0d1117&border=00000000&stroke=30363d&ring=8b949e&fire=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" alt="footer" />
