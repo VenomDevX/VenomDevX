@@ -19,7 +19,7 @@
 
 I'm a full-stack and embedded developer who likes working where code meets circuits. I build web products with **React, Next.js and Python**, and hardware projects with **ESP32, Arduino and Raspberry Pi**.
 
-- **Now** — building [DocNova](https://github.com/VenomDevX/DocNova-PDF-Tools), an AI-powered document toolkit
+- **Now** — building [Corvus](https://github.com/VenomDevX/CORVUS), an AI-powered document toolkit
 - **Learning** — Raspberry Pi and advanced TypeScript
 - **Ask me about** — full-stack, frontend, embedded hardware
 
