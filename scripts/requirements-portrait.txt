@@ -1,0 +1,6 @@
+# Only for regenerating the ASCII portrait locally (prep_photo.py + make_ascii_svg.py).
+# The daily workflow uses requirements.txt.
+Pillow==12.1.1
+numpy==1.26.4
+opencv-python
+rembg
