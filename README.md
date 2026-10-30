@@ -31,7 +31,7 @@
 
 <p><b>Full-Stack & Embedded Developer · Delhi</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parth--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sharma-b96661245/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parthsharma--venomdevx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthsharma-venomdevx/)
 [![Email](https://img.shields.io/badge/Email-VenomDevX@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:VenomDevX@proton.me)
 [![Reddit](https://img.shields.io/badge/Reddit-Venom--DevX-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Venom-DevX/)
 [![CORVUS](https://img.shields.io/badge/Now_Building-CORVUS-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://github.com/VenomDevX/CORVUS)
