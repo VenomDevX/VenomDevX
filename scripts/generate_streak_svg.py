@@ -50,11 +50,14 @@ maxorder = (NW-1) + 6*0.55
 
 rects, labels = [], []
 sd = datetime.date.fromisoformat(contribs[0]["date"])
-last_m = None
+last_m, last_wk = None, -9
 for wk in range(NW):
     d = sd + datetime.timedelta(days=wk*7)
     if d.month != last_m:
         last_m = d.month
+        if wk - last_wk < 3:  # too close to the previous label (partial first month) -> drop it
+            labels.pop()
+        last_wk = wk
         labels.append(f'<text class="lbl" x="{LEFT+wk*(CELL+GAP)}" y="{TOP-8}">{MONTHS[d.month-1]}</text>')
 for name, r in [("Mon",1),("Wed",3),("Fri",5)]:
     labels.append(f'<text class="lbl" x="2" y="{TOP+r*(CELL+GAP)+CELL-2}">{name}</text>')
