@@ -38,6 +38,5 @@
 
 <br>
 
-<sub>Profile design adapted from <a href="https://github.com/AVIVASHISHTA29/AVIVASHISHTA29">AVIVASHISHTA29</a>'s animated terminal profile.</sub>
 
 </div>
